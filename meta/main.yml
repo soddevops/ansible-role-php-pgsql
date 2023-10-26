@@ -1,6 +1,6 @@
 ---
-dependencies:
-  - geerlingguy.php
+dependencies: []
+  # - geerlingguy.php
 
 galaxy_info:
   role_name: php-pgsql
